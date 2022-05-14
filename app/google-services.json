@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268572717424",
+    "project_id": "assigment-fb766",
+    "storage_bucket": "assigment-fb766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268572717424:android:f1e9693db1c5d2adc95fb5",
+        "android_client_info": {
+          "package_name": "com.rehan.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268572717424-7jj5n3m2mviv8uf9ir3gq14hp2kg8du9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEXsy1CUhvQ7phSl6xWqZJU8WLhRX7hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268572717424-7jj5n3m2mviv8uf9ir3gq14hp2kg8du9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
